@@ -295,7 +295,7 @@ width: 183px;
   color: #fff;
 }
 
-.footer_column_content_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-basis: 711px;
   flex-direction: column;
