@@ -54,6 +54,10 @@ width: 183px;
   text-decoration: none;
 }
 
+.header__link:hover {
+  color: #ff0000;
+}
+
 .header__square-pic {
     position: absolute;
     height: 568px;
@@ -213,6 +217,10 @@ width: 183px;
   line-height: 51px;
   color: #000;
 }
+
+.feinman__link:hover {
+  color: #ff0000;
+}
 /* section kaufman*/
 .kaufman {
   position: relative;
@@ -307,6 +315,10 @@ width: 183px;
   color: #fff;
 }
 
+.footer__author:hover {
+  color: #ff8c00;
+}
+
 .footer__column-heading {
   margin: 0;
   line-height: 30px;
@@ -329,6 +341,10 @@ width: 183px;
 .footer__link {
   text-decoration: none;
   color: #fff;
+}
+
+.footer__link:hover {
+  color: #ff0000;
 }
 
 .footer__social-icon {
