@@ -1,5 +1,5 @@
 # Проектная работа 2 "Научиться учиться"
-[https://github.com/SanderKins/Homework1.git] (Link GitHub)
+[Link GitHub] (https://github.com/SanderKins/Homework1.git)
 ------
 Адаптивная верстка сайта: flexbox, позиционирование, создание анимации, работа с нестандартными шрифтами.
 ------
