@@ -1,0 +1,15 @@
+@import url(../footer/__columns/footer__columns.css);
+@import url(../footer/__column/footer__column_content_copyright.css);
+@import url(../logo/_place/logo_place_footer.css);
+@import url(../footer/__author/footer__author.css);
+@import url(../footer/__column/footer__column-heading.css);
+@import url(../footer/__column/footer__column-links.css);
+@import url(../footer/__list-item/footer__list-item.css);
+@import url(../footer/__link/footer__link.css);
+@import url(../footer/__social-icon/footer__social-icon.css);
+
+.footer {
+  display: flex;
+  min-height: 350px;
+  background-color: #1f1f1f;
+}
